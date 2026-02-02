@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DuranDanielHarold
 - 👀 I’m interested in learning new things, especially in the world of computer technology
-- 🌱 I’m currently learning computer science
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on small projects, full-time work, and part-time work
 - 📫 How to reach me: email me at dhduran071303@gmail.com
 - 😄 Pronouns: He/Him
